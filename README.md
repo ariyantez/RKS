@@ -50,7 +50,10 @@ D. Values :
     - strings.xml
     - styles.xml
     
-E. Berikut Video saat saya Running di Android Studio :
+E. Manifest :
+    - AndroidManifest.xml
+    
+F. Berikut Video saat saya Running di Android Studio :
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76816980/105640130-3cfa6100-5eb7-11eb-82e7-58b5d2adbcdb.gif)
     
