@@ -51,6 +51,7 @@ D. Values :
     - styles.xml
     
 E. Manifest :
+
     - AndroidManifest.xml
     
 F. Berikut Video saat saya Running di Android Studio :
