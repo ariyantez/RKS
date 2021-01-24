@@ -7,12 +7,19 @@ Berikut file file yg digunakan dan dimasukan pada folder berikut :
 
 A. Layout :
     - activity_main.xml
+    
     - activity_login.xml
+    
     - activity_register.xml
+    
     - activity_toko.xml
+    
     - activity_list_barang.xml
+    
     - activity_detail_barang.xml
+    
     - activity_pembayaran.xml
+    
     - activity_pembayaran_sukses.xml
 
 B. Java :
