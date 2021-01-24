@@ -6,23 +6,18 @@ Pada Aplikasi Online Shop yang saya buat dengan nama "Stuffnime" ini menggunakan
 Berikut file file yg digunakan dan dimasukan pada folder berikut :
 
 A. Layout :
+
     - activity_main.xml
-    
     - activity_login.xml
-    
     - activity_register.xml
-    
     - activity_toko.xml
-    
-    - activity_list_barang.xml
-    
+    - activity_list_barang.xml   
     - activity_detail_barang.xml
-    
     - activity_pembayaran.xml
-    
     - activity_pembayaran_sukses.xml
 
 B. Java :
+
     - MainActivity.java
     - Login.java
     - Register.java
@@ -33,6 +28,7 @@ B. Java :
     - PembayaranSukses.java
     
 C. Drawable :
+
     - bg_btn.xml
     - bg_btn_bac.xml
     - btn.xml
@@ -48,6 +44,7 @@ C. Drawable :
     - yo.png
     
 D. Values :
+
     - colors.xml
     - dimens.xml
     - strings.xml
