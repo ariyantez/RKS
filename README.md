@@ -2,6 +2,9 @@
 Tugas Kuliah
 
 Pada Aplikasi Online Shop yang saya buat dengan nama "Stuffnime" ini menggunakan Android Studio yang dimana untuk membuat Front End nya.
+Pada Front End yang saya bangun ini mengikuti atau sesuai dengan rancangan wireframe, workflow, dan dokumentasi kebutuhan yg telah saya buat sebelum UAS. Berikut Link folder UTS sebelumnya yg berisi workflow, wireframe, dan dokumentasi kebutuhan :
+
+https://drive.google.com/drive/folders/1XOvqem4XpoiVXJxTfO3kU7CO4BBg0rm7?usp=sharing
 
 Berikut file file yg digunakan dan dimasukan pada folder berikut :
 
